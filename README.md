@@ -10,4 +10,14 @@ https://www.youtube.com/watch?v=e9wOnPdN8tY&list=PLk4h7dmY2eYFmowaPqjFDzSokiiLq5
 https://github.com/andriygav \
 [https://github.com/andriygav](https://www.youtube.com/watch?v=sEi6srNZPps)https://www.youtube.com/watch?v=sEi6srNZPps \
 https://github.com/jonkrohn \
-https://github.com/mikexcohen 
+https://github.com/mikexcohen \
+https://github.com/sergei4e/Machine-Learning
+
+# res
+https://habr.com/ru/companies/ods/articles/322626/ \
+https://mlcourse.ai/book/index.html \
+
+#ДЗ
+https://github.com/cscenter/ml_hw_ai \
+https://github.com/vmakagon/course_DS_and_ML_Hillel \
+https://github.com/nastya236/Coursera-Math-and-Python
