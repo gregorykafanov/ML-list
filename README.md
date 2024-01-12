@@ -21,3 +21,8 @@ https://mlcourse.ai/book/index.html \
 https://github.com/cscenter/ml_hw_ai \
 https://github.com/vmakagon/course_DS_and_ML_Hillel \
 https://github.com/nastya236/Coursera-Math-and-Python
+
+#lectures
+Курс "Машинное обучение" на ФКН ВШЭ
+https://github.com/esokolov/ml-course-hse
+https://github.com/nadiinchi/HSE_FCS_seminars
