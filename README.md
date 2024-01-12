@@ -17,12 +17,12 @@ https://github.com/sergei4e/Machine-Learning
 https://habr.com/ru/companies/ods/articles/322626/ \
 https://mlcourse.ai/book/index.html \
 
-#ДЗ
+# ДЗ
 https://github.com/cscenter/ml_hw_ai \
 https://github.com/vmakagon/course_DS_and_ML_Hillel \
 https://github.com/nastya236/Coursera-Math-and-Python
 
-#lectures
-Курс "Машинное обучение" на ФКН ВШЭ
-https://github.com/esokolov/ml-course-hse
-https://github.com/nadiinchi/HSE_FCS_seminars
+# lectures
+Курс "Машинное обучение" на ФКН ВШЭ \
+https://github.com/esokolov/ml-course-hse \
+https://github.com/nadiinchi/HSE_FCS_seminars 
