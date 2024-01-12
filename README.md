@@ -18,7 +18,8 @@ https://github.com/shsarv/Machine-Learning-Projects \
 https://github.com/topics/machine-learning-projects \
 https://github.com/milaan9/93_Python_Data_Analytics_Projects \
 https://github.com/durgeshsamariya/Data-Science-Machine-Learning-Project-with-Source-Code \
-https://github.com/fsiddh/Machine-Learning-Masters
+https://github.com/fsiddh/Machine-Learning-Masters \
+https://github.com/data-flair/machine-learning-projects
 
 # res
 https://habr.com/ru/companies/ods/articles/322626/ \
