@@ -12,7 +12,8 @@ https://github.com/andriygav \
 https://www.youtube.com/watch?v=sEi6srNZPps \
 https://github.com/jonkrohn \
 https://github.com/mikexcohen \
-https://github.com/sergei4e/Machine-Learning
+https://github.com/sergei4e/Machine-Learning \
+https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
 
 # res
 https://habr.com/ru/companies/ods/articles/322626/ \
