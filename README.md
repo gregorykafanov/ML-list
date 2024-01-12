@@ -17,7 +17,8 @@ https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-
 https://github.com/shsarv/Machine-Learning-Projects \
 https://github.com/topics/machine-learning-projects \
 https://github.com/milaan9/93_Python_Data_Analytics_Projects \
-https://github.com/durgeshsamariya/Data-Science-Machine-Learning-Project-with-Source-Code
+https://github.com/durgeshsamariya/Data-Science-Machine-Learning-Project-with-Source-Code \
+https://github.com/fsiddh/Machine-Learning-Masters
 
 # res
 https://habr.com/ru/companies/ods/articles/322626/ \
