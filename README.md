@@ -26,7 +26,8 @@ https://mlcourse.ai/book/index.html \
 https://thecleverprogrammer.com/2020/11/22/deep-learning-projects-with-python \
 https://www.projectpro.io/article/machine-learning-projects-on-github/465 \
 https://www.projectpro.io/article/open-source-ai-projects-for-beginners-github/517#mcetoc_1fkn5f2ivm \
-https://www.datacamp.com/blog/machine-learning-projects-for-all-levels
+https://www.datacamp.com/blog/machine-learning-projects-for-all-levels \
+https://github.com/shsarv/Machine-Learning-Projects
 
 # ДЗ
 https://github.com/cscenter/ml_hw_ai \
