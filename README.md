@@ -23,6 +23,7 @@ https://github.com/fsiddh/Machine-Learning-Masters
 # res
 https://habr.com/ru/companies/ods/articles/322626/ \
 https://mlcourse.ai/book/index.html \
+https://thecleverprogrammer.com/2020/11/22/deep-learning-projects-with-python/
 
 # ДЗ
 https://github.com/cscenter/ml_hw_ai \
