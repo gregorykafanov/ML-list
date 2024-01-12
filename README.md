@@ -8,7 +8,8 @@ https://www.youtube.com/watch?v=e9wOnPdN8tY&list=PLk4h7dmY2eYFmowaPqjFDzSokiiLq5
 
 # repos
 https://github.com/andriygav \
-[https://github.com/andriygav](https://www.youtube.com/watch?v=sEi6srNZPps)https://www.youtube.com/watch?v=sEi6srNZPps \
+[https://github.com/andriygav](https://www.youtube.com/watch?v=sEi6srNZPps) \
+https://www.youtube.com/watch?v=sEi6srNZPps \
 https://github.com/jonkrohn \
 https://github.com/mikexcohen \
 https://github.com/sergei4e/Machine-Learning
